@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>Listening list</title>
+        <description>Audio books.</description>
+        <language>en-RU</language>
+        <link>https://shuhrat.github.io</link>
+        <googleplay:image href="https://shuhrat.github.io/assets/audiobooks.jpg"/>
+        <itunes:image href="https://shuhrat.github.io/assets/audiobooks.jpg"/>
+        <media:thumbnail url="https://shuhrat.github.io/assets/audiobooks.jpg" />
+
+        <item>
+            <title>Богатый папа, бедный папа</title>
+            <description>К 20-летию финансового бестселлера всех времен Роберт Кийосаки порадовал читателей новым изданием ставшей уже культовой книги - с изменениями и дополнениями для сегодняшнего мира, сегодняшних рыночных условий и 9 новыми разделами. К сожалению, за последних 20 лет в сфере образования мало что поменялось - в школе наши дети до сих пор не получают никаких финансовых знаний и потом всю жизнь работают ради денег, вместо того чтобы заставить деньги работать на себя. Научите детей обращаться с деньгами раньше, чем они столкнутся с материальными трудностями в нашем нестабильном мире!</description>
+            <pubDate>Mon, 11 Nov 2019 19:33:52 +0000</pubDate>
+            <enclosure url="https://www.dropbox.com/s/ivx448kef1lse9l/rich-dad-poor-dad.mp3?dl=1" type="audio/mpeg"/>
+            <guid>rich-dad-poor-dad</guid>
+        </item>
+
+        <item>
+            <title>Самый богатый человек в Вавилоне</title>
+            <description>Автор этой книги уверен: чтобы исполнить все свои замыслы и желания, Вы прежде всего должны добиться успеха в денежных вопросах, используя принципы управления личными финансами, изложенные на ее страницах. </description>
+            <pubDate>Mon, 11 Nov 2019 19:33:52 +0000</pubDate>
+            <enclosure url="https://www.dropbox.com/s/4e7pnf7n20ljfe5/the-richest-man-in-babylon.mp3?dl=1" type="audio/mpeg"/>
+            <guid>the-richest-man-in-babylon</guid>
+        </item>
+
+    </channel>
+</rss>
